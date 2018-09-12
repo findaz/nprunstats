@@ -17,3 +17,5 @@ Customize the SLURM script runstats.sl to your specific needs.
 
 Run ./runrunstats YYYYMMDD for each night you'd like process. Output, ouput reports and error reports will 
 be written to the working directory. 
+
+dependencies include fitsio, astrometry.net and tractor, which are all availiable at NERSC
